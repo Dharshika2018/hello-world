@@ -7,6 +7,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.printf("this is my first project");
         System.out.printf("hiii");
+        System.out.printf("hiii Iam dharshika");
 
 
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
