@@ -27,3 +27,24 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Node / MERN stack ###
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+### Build output ###
+client/dist/
+server/public/
+build/
+
+### Runtime data & secrets ###
+server/.env
+server/.data/
+server/uploads/
+!server/uploads/.gitkeep
+*.log
+
+### Uploaded documents (never commit personal data) ###
+server/uploads/documents/
